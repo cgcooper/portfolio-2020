@@ -22,6 +22,16 @@ export default function LDT300x({ data }) {
         		</p>
 
         	{/* Jump Menu */}
+        		<Subheading>Instructional Strategy</Subheading>
+
+        		<p>The below resources, taken together, form a course is targeted at absolute beginner violinists who have never opened a case. By the time they are done, they will be familiar with posture, equipment, and the basics of music theory.</p>
+        		<p>After completing this course, a student might next seek out a course focusing on slightly more advanced concepts such as dynamics, bowing techniques, or playing in a group.</p>
+        		<p>To this end, the course's materials mostly focus on establishing good habits, providing tools for memory, and introducing no-cost resources for forming a practice habit.</p>
+
+        		<Subheading>License</Subheading>
+
+        		<p>All of the materials below are available to reuse under a <strong>Creative Commons Attribution-ShareAlike</strong> License, except for the two found in the "Two Relevant Open Educational Resources" section, which were not created by me and as such, have their own licenses (see links).</p>
+
         		<div id="jump">
 	        		<Subheading>Jump To:</Subheading>
 
@@ -32,7 +42,7 @@ export default function LDT300x({ data }) {
 				        </li>
 				      )}
 				      	<li>
-				      		<a href="#oer">Two Relevant OERs</a>
+				      		<a href="#oer">Two Relevant Open Educational Resources</a>
 			      		</li>
 				    </ul>
 			    </div>
@@ -66,7 +76,7 @@ export default function LDT300x({ data }) {
 		      	)}
 
 			    <div id="oer">
-			      	<Subheading>Two Relevant OERs</Subheading>
+			      	<Subheading>Two Relevant Open Educational Resources</Subheading>
 
 			      	<ol>
 			      		<li>Produced by the RIAM Teaching and Learning Network, <a href='https://www.youtube.com/watch?v=mlZVQbFW0JA'>"Time Signatures, Bars and Barlines"</a> is a helpful and open educational video that introduces some core concepts in sheet music.</li>
